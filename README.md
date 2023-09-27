@@ -6,5 +6,6 @@ Multi Layer Perceptron(Çok Katmanlı Algılayıcılar)
 
 Örnek:
 
+![mlp3](https://github.com/bfatmab/MLP/assets/98351901/72065529-d8ec-4891-ad53-d92b233178b9)
 ![mlp4](https://github.com/bfatmab/MLP/assets/98351901/11e6420d-5377-41b8-b005-1df9daeb07cf)
 ![mlp5](https://github.com/bfatmab/MLP/assets/98351901/ff672c36-ef2b-4bb8-be26-5a3deddefd22)
